@@ -1,3 +1,3 @@
 # challenge-1-amigo-secreto
 
-##Uso generico ejecutar archivo html.
+Uso generico ejecutar archivo html.
